@@ -38,6 +38,9 @@ El análisis de algoritmos es el estudio teórico y práctico del rendimiento de
 ## Caso práctico
 Se analiza y compara dos algoritmos para calcular el n-ésimo número de la sucesión de Fibonacci.
 
+**Link a video Explicativo y desarrollo**
+[text](https://youtu.be/Bqx7XqDOyMY)
+
 **Qué es la sucesión de Fibonacci?**
 La sucesión de Fibonacci es una secuencia de números donde cada número es la suma de los dos anteriores, comenzando con 0 y 1. Por ejemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
 
